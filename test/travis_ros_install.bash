@@ -8,7 +8,7 @@ sudo pup install rospkg
 
 #ros install
 cd ..
-git clone http://github.com/ly3k0/ros_setup_scripts_Ubuntu16.04_server.git
+git clone https://github.com/ly3k0/ros_setup_scripts_Ubuntu16.04_server.git
 cd ./ros_setup_scripts_Ubuntu16.04_server
 bash ./setup0.bash
 bash ./setup1.bash
